@@ -64,4 +64,4 @@ I love the entire process of developing creative websites, and Apis I love the c
 
 [![Yu's github stats](https://github-readme-stats.vercel.app/api?username=arunmeti2018)](https://github.com/arunmeti2018)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=arunmeti2018.arunmeti2018)](https://arunmeti.netlify.app/)
+[![](https://visitcount.itsvg.in/api?id=arunmeti2018&label=Profile%20Views&color=6&pretty=false)](https://visitcount.itsvg.in)
