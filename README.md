@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/arunmeti2018/arunmeti2018/main/assets/banner.gif" alt="banner" width="100%" height="auto"/>
+  <img src="https://raw.githubusercontent.com/arunmeti2018/arunmeti2018/main/images/arun-meti-portfolio-thumbnail.png" alt="banner" width="100%" height="auto"/>
 </div>
 
 <h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm <a href="https://arunmeti.netlify.app" target="_blank" rel="noreferrer">Arun M</a></h1>
